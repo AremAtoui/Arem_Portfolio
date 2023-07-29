@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Arem_Portfolio/static/css/main.706b5327.css",
+    "main.js": "/Arem_Portfolio/static/js/main.28e5a27b.js",
+    "static/js/787.128fc6e9.chunk.js": "/Arem_Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/MergedImages (2).png": "/Arem_Portfolio/static/media/MergedImages (2).386c61a06ec623f92a36.png",
+    "static/media/MergedImagess.png": "/Arem_Portfolio/static/media/MergedImagess.5a5345da46b2d15d46ad.png",
+    "static/media/MergedImagesr.png": "/Arem_Portfolio/static/media/MergedImagesr.6c823759d39a21ab4efe.png",
+    "static/media/AremCV.pdf": "/Arem_Portfolio/static/media/AremCV.2a4565ebf95e4f977915.pdf",
+    "index.html": "/Arem_Portfolio/index.html",
+    "main.706b5327.css.map": "/Arem_Portfolio/static/css/main.706b5327.css.map",
+    "main.28e5a27b.js.map": "/Arem_Portfolio/static/js/main.28e5a27b.js.map",
+    "787.128fc6e9.chunk.js.map": "/Arem_Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706b5327.css",
+    "static/js/main.28e5a27b.js"
+  ]
+}
